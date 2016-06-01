@@ -34,7 +34,7 @@ the Nginx proxy container as it handles connection queueing automatically
 and this manual queue is not necessary.
 
 ## Nginx
-[Nginx](http://www.haproxy.org/) is an HTTP and reverse proxy server, 
+[Nginx](http://www.nginx.org/) is an HTTP and reverse proxy server, 
 a mail proxy server, and a generic TCP proxy server.
 It is recommended to use the official [Docker Hub Nginx Image](https://hub.docker.com/_/nginx/).
 
